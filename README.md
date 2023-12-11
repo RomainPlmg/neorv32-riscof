@@ -17,7 +17,6 @@ Currently, the following tests are supported:
 - [x] `rv32i_m\I` - base integer ISA
 - [x] `rv32i_m\M` - hardware integer multiplication and division
 - [x] `rv32i_m\privilege` - privileged machine-mode architecture
-- [x] `rv32i_m\Zicond` - conditional operations
 - [x] `rv32i_m\Zifencei` - instruction stream synchronization
 
 :bulb: The general structure of this repository was setup according to the
