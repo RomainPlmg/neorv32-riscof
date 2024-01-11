@@ -4,3 +4,4 @@
 [submodule "neorv32"]
 	path = neorv32
 	url = https://github.com/Wcbn38/neorv32.git
+	branch = main
